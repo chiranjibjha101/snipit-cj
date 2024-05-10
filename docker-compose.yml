@@ -5,7 +5,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile.alpine
-    container_name: rjcj101/snipit-docker
+    container_name: snipeit101
     ports:
     - "8000:80"
     volumes:
@@ -20,12 +20,14 @@ services:
 
   mariadb:
     image: mariadb:10.6.4-focal
+    volumes:
+    - db:/var/lib/mysql
     env_file:
     - .env.docker
     networks:
     - snipeit-backend
     ports:
-      - "3306:3306"
+      - "8500:8500"
 
   redis:
     image: redis:6.2.5-buster
