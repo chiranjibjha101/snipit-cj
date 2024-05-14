@@ -217,7 +217,7 @@ return [
     'webhook_integration_help'    => ':app Integration ist optional, allerdings sind Endpunkt und Kanal erforderlich, wenn du sie verwenden möchtet. Um die :app Integration zu konfigurieren, musst du zuerst in deinem :app Account <a href=":webhook_link" target="_new" rel="noopener">einen eingehenden Webhook erstellen</a>. Klicke auf den <strong>:app Integration testen</strong>-Knopf, um zu bestätigen, dass die Einstellungen vor dem Speichern korrekt sind. ',
     'webhook_integration_help_button'    => 'Sobald die :app Einstellungen gespeichert wurden, erscheint eine Schaltfläche zum testen.',
     'webhook_test_help'           => 'Teste, ob deine :app Integration korrekt konfiguriert ist. DIE AKTUELLEN :app EINSTELLUNGEN MÜSSEN ZUERST GESPEICHERT WERDEN.',
-    'snipe_version'  			=> 'Snipe-IT Version',
+    'snipe_version'  			=> 'Asset Management Version',
     'support_footer'            => 'Support-Link in der Fußzeile ',
     'support_footer_help'       => 'Lege fest, wer die Links zu Snipe-IT Support-Information und Benutzerhandbuch sieht',
     'version_footer'            => 'Version in in der Fußzeile ',

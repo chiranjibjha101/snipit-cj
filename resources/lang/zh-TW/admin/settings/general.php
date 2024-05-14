@@ -123,7 +123,7 @@ return [
     'ldap_test_sync'            => '測試 LDAP 同步',
     'license'                   => '軟體授權',
     'load_remote'               => 'Use Gravatar',
-    'load_remote_help_text'		=> 'Uncheck this box if your install cannot load scripts from the outside internet. This will prevent Snipe-IT from trying load images from Gravatar.',
+    'load_remote_help_text'		=> 'Uncheck this box if your install cannot load scripts from the outside internet. This will prevent Asset Management from trying load images from Gravatar.',
     'login'                     => '登入嘗試',
     'login_attempt'             => '登入嘗試',
     'login_ip'                  => 'IP 位址',

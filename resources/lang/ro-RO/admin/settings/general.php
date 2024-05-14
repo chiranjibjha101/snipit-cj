@@ -122,7 +122,7 @@ return [
     'ldap_test_sync'            => 'Testează sincronizarea LDAP',
     'license'                   => 'Licență software',
     'load_remote'               => 'Use Gravatar',
-    'load_remote_help_text'		=> 'Uncheck this box if your install cannot load scripts from the outside internet. This will prevent Snipe-IT from trying load images from Gravatar.',
+    'load_remote_help_text'		=> 'Uncheck this box if your install cannot load scripts from the outside internet. This will prevent Asset Management from trying load images from Gravatar.',
     'login'                     => 'Încercări de conectare',
     'login_attempt'             => 'Încercare de conectare',
     'login_ip'                  => 'Adresă IP',

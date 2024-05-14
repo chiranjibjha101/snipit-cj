@@ -221,7 +221,7 @@ return [
     'support_footer'            => 'Stöd länkar i sidfot ',
     'support_footer_help'       => 'Ange vem som kan se länkarna till Snipe-IT Support info och användarmanual',
     'version_footer'            => 'Version i sidfot ',
-    'version_footer_help'       => 'Specificera vilka som kan se Snipe-IT version och build nummer.',
+    'version_footer_help'       => 'Specificera vilka som kan se Asset Management Version och build nummer.',
     'system'                    => 'Systeminformation',
     'update'                    => 'Uppdatera inställningarna',
     'value'                     => 'Värde',

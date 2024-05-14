@@ -217,7 +217,7 @@ return [
     'webhook_integration_help'    => 'L\'integrazione con :app è facoltativa, ma se si desidera utilizzarla bisogna specificare l\'endpoint e il canale. Per configurare l\'integrazione devi <a href=":webhook_link" target="_new" rel="noopener">creare un webhook in arrivo</a> sul tuo account :app . Clicca su <strong>Prova integrazione :app</strong> per confermare che le impostazioni siano corrette prima di salvare. ',
     'webhook_integration_help_button'    => 'Una volta salvate le informazioni di :app, apparirà un pulsante di prova.',
     'webhook_test_help'           => 'Verifica se l\'integrazione :app è configurata correttamente. DEVI PRIMA SALVARE LE IMPOSTAZIONI :app AGGIORNATE.',
-    'snipe_version'  			=> 'Snipe-IT version',
+    'snipe_version'  			=> 'Asset Management Version',
     'support_footer'            => 'Supporto per i collegamenti a piè di pagina ',
     'support_footer_help'       => 'Specificare chi vede i collegamenti alle informazioni sul supporto IT e su Snipe-IT',
     'version_footer'            => 'Versione a piè di pagina ',

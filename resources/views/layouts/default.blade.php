@@ -1052,9 +1052,9 @@
 
                 <div class="1hidden-xs pull-left">
                     <div class="pull-left" >
-                        <a target="_blank" href="https://snipeitapp.com" rel="noopener">Snipe-IT</a> is open source software,
+                        <a target="_blank" href="#" rel="noopener">Vyrazu Asset Management</a> is open source software,
                         made with <i class="fas fa-heart" style="color: #a94442; font-size: 10px" aria-hidden="true"></i><span
-                                class="sr-only">love</span> by <a href="https://twitter.com/snipeitapp" rel="noopener">@snipeitapp</a>.
+                                class="sr-only">love</span> by <a href="#" rel="noopener">@VyrazuLabs</a>.
                     </div>
                     <div class="pull-right">
                     @if ($snipeSettings->version_footer!='off')
@@ -1067,9 +1067,9 @@
                     @if ($snipeSettings->support_footer!='off')
                         @if (($snipeSettings->support_footer=='on') || (($snipeSettings->support_footer=='admin') && (Auth::user()->isSuperUser()=='1')))
                             <a target="_blank" class="btn btn-default btn-xs"
-                               href="https://snipe-it.readme.io/docs/overview"
+                               href="#"
                                rel="noopener">{{ trans('general.user_manual') }}</a>
-                            <a target="_blank" class="btn btn-default btn-xs" href="https://snipeitapp.com/support/"
+                            <a target="_blank" class="btn btn-default btn-xs" href="#"
                                rel="noopener">{{ trans('general.bug_report') }}</a>
                         @endif
                     @endif

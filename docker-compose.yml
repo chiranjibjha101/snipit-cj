@@ -5,7 +5,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile.alpine
-    container_name: snipeit101
+    container_name: snipeit
     ports:
     - "8000:80"
     volumes:
@@ -27,7 +27,7 @@ services:
     networks:
     - snipeit-backend
     ports:
-      - "8500:8500"
+      - "3306:3306"
 
   redis:
     image: redis:6.2.5-buster
