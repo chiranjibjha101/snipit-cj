@@ -1053,7 +1053,7 @@
                 <div class="1hidden-xs pull-left">
                     <div class="pull-left" >
                         <a target="_blank" href="#" rel="noopener">Asset Management</a> is software,
-                        made with <i class="fas fa-heart" style="color: #a94442; font-size: 10px" aria-hidden="true"></i><span
+                        made with<i class="fas fa-heart" style="color: #a94442; font-size: 10px" aria-hidden="true"></i><span
                                 class="sr-only">love</span> by <a href="#" rel="noopener">@AssetManagement</a>.
                     </div>
                     <div class="pull-right">
